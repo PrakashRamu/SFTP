@@ -1,0 +1,11 @@
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\bin\Debug\netcoreapp2.0\SFTP_File_Upload.deps.json
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\bin\Debug\netcoreapp2.0\SFTP_File_Upload.runtimeconfig.json
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\bin\Debug\netcoreapp2.0\SFTP_File_Upload.runtimeconfig.dev.json
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\bin\Debug\netcoreapp2.0\SFTP_File_Upload.dll
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\bin\Debug\netcoreapp2.0\SFTP_File_Upload.pdb
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\obj\Debug\netcoreapp2.0\SFTP_File_Upload.csprojResolveAssemblyReference.cache
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\obj\Debug\netcoreapp2.0\SFTP_File_Upload.csproj.CoreCompileInputs.cache
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\obj\Debug\netcoreapp2.0\SFTP_File_Upload.AssemblyInfoInputs.cache
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\obj\Debug\netcoreapp2.0\SFTP_File_Upload.AssemblyInfo.cs
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\obj\Debug\netcoreapp2.0\SFTP_File_Upload.dll
+D:\OtherProjects\SFTP_File_Upload\SFTP_File_Upload\obj\Debug\netcoreapp2.0\SFTP_File_Upload.pdb
